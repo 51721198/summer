@@ -23,3 +23,7 @@
 hs_err_pid*
 .gradle/4.10/vcsMetadata-1/
 /.idea/
+/gradle/
+.gradle/4.10.1/vcsMetadata-1/
+src/main/resources/
+src/test/
