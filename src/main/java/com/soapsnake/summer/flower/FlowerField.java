@@ -23,7 +23,6 @@ public interface FlowerField {
 
     <T> T getFlower(Class<T> requiredType, Object... args) throws Exception;
 
-
     boolean containsFlower(String name);
 
     boolean isSingleton(String name) throws Exception;
